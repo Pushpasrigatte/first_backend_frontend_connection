@@ -8,7 +8,7 @@ def get_connection():
         host='localhost',
         user='root',
         password='',
-        database='userdb'
+        database='first_frontend_backend_connection'
     )
 
 # ✅ Now it's safe to define routes
